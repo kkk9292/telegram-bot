@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 CHANNEL_ID = "@karrar_eg"
 FILE_ID = "BQACAgIAAxkBAAMlagtIgLEW0xzAmQa2DUNMus6ID2AAAo6lAALOG1hI0pO97qhbuVs7BA"
 
-BOT_TOKEN = "8919817428:AAEprBUcU3TCbyLkXUdKIFQ_pONPR2JKm2Iا"
+BOT_TOKEN = "8919817428:AAGeK6nQNaGv1nOn5ouB7SBOOYNMyZnqRJc"
 
 
 async def check_subscription(bot, user_id):
